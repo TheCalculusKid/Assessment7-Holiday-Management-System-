@@ -1,0 +1,33 @@
+Holiday Scraper:
+main function->saves scraped data to .json
+
+for loop (based on rows):
+    filters to get data and store it in a list of dictionaries.
+
+Main Program:
+*global variables
+*class Holidays
+*input validation functions:
+    invalid = False
+    while invalid:
+        choice = input (string)
+        try:
+                ----
+                invalid = True
+        exept:
+                ----
+*utility functions
+while loop (to keep program functioning until the 5th (exit) menu option has been selected)
+    if( add a holiday ):
+        name, add to index
+    if( remove a holiday ):
+        for i in Objects:
+            if Objects.name == deletename
+                .pop
+    if( save a holiday list ):
+        for i in Objects:
+            *save as dict
+    if( view holidays ):
+        *lambdas
+    if( exit ):
+        *exit
